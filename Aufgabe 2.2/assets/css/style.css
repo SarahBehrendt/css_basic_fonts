@@ -1,0 +1,10 @@
+section{
+    background-image: url(./vertical.png);
+    background-repeat:repeat-y;
+    
+}
+article{
+    background-image: url(./tablet.jpeg);
+    background-repeat: no-repeat;
+    background-position: top ,right;
+}

@@ -1,0 +1,11 @@
+h1{
+    background-color: lightblue;
+}
+section{
+    background-color: linen;
+}
+article{
+    background-image: url("./city.jpeg");
+  background-repeat: no-repeat;
+  background-position: center;
+}

@@ -1,0 +1,72 @@
+@font-face{
+    font-family: Sarah;
+    src: url(./Sarah.ttf);
+  
+    }
+    @font-face {
+        font-family: freddy1;
+        src: url(./freddy1.ttf);
+    }
+    @font-face {
+        font-family: Freddy11;
+        src: url(./Freddy11.ttf);
+    }
+    @font-face {
+        font-family: sarah2;
+        src: url(./sarah2.ttf);
+    }
+
+h1{
+    font-family: Sarah;
+    background-color: rgb(16, 74, 209);
+    color: white;
+    text-shadow: 3px -2px red;
+
+}
+h3{
+    font-family: freddy1;
+    word-spacing: 5px;
+
+}
+h2{
+    font-family: Freddy11;
+    background-color: greenyellow;
+    word-spacing: 18px;
+}
+h4{
+    font-family: sarah2;
+    background-color: pink;
+    word-spacing: 3px;
+    text-shadow:4px -3px gray ;
+    font-size: 85px;
+    /*text-indent: 150px;*/
+    text-align: right;
+}
+strong{
+    color: rgb(179, 179, 3);
+    word-spacing: -2px;
+
+}
+em{
+   color: red;
+   word-spacing: -1px;
+}
+main{
+    word-spacing: 3px;
+    font-family: monospace;
+}
+ol{
+    text-indent: 5px;
+    color: red;
+    word-spacing: -2px;
+}
+h5{
+    letter-spacing: 5px;
+    text-transform: uppercase;
+}
+ul{
+    background-color: gray;
+    text-indent: 10px;
+    font-size: 20px;
+    line-height: 40px;
+}
